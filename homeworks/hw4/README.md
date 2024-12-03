@@ -1,0 +1,1 @@
+Веса обученной моддели из пункта 3 - [ссылка на гугл-диск](https://drive.google.com/file/d/106L1GyBpjrhqh_7TEGhig17dx58TpkjL/view?usp=drive_link) 
